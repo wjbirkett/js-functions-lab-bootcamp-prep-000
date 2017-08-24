@@ -1,3 +1,5 @@
+var name = "Willie"
+
 function happyHolidays() {
   return 'Happy holidays!'
 }
