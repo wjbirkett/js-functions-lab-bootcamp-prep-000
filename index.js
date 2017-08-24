@@ -5,5 +5,5 @@ function happyHolidays() {
 var name = "Willie";
 
 function happyHolidaysTo() {
-  return 'Happy holidays, you';
+  return 'Happy holidays, you!';
 }
